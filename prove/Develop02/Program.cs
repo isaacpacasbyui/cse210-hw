@@ -5,7 +5,7 @@ journal entry so the user can record how they felt that day in addition
 to the date, prompt, and response. I also added simple input validation for
 the menu and a check to make sure a file exists before trying to load it.
 These features make the program more useful and user-friendly while still keeping
-the design focused on abstraction.
+the design focused on abstraction..
 */
 class Program
 {
